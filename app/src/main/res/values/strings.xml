@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GlucoTrack</string>
+    <string name="app_subtitle">Your health, in real-time.</string>
+    <string name="connect_button_text">Connect to CGM Sensor</string>
+    <string name="profile_title">User Profile</string>
+    <string name="name_hint">Name</string>
+    <string name="age_category_hint">Age Category</string>
+    <string name="diabetic_question">Are you diabetic?</string>
+    <string name="eaten_question">Have you eaten in the last hour?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="light_snack">Light Snack (Low Impact)</string>
+    <string name="balanced_meal">Balanced Meal (Medium Impact)</string>
+    <string name="heavy_meal">Heavy Meal (High Impact)</string>
+    <string name="start_monitoring_button">Start Monitoring</string>
+    <string name="dashboard_title">GlucoTrack</string>
+    <string name="settings_title">Alert Settings</string>
+    <string name="high_glucose_hint">High Glucose Alert (mg/dL)</string>
+    <string name="low_glucose_hint">Low Glucose Alert (mg/dL)</string>
+    <string name="save_settings_button">Save</string>
+
+    <string name="report_footer_notes">Clinical Goals:\nTime in Range (70-180 mg/dL) &gt; 70%\nTime Below Range &lt; 4%\nGlucose Variability (CV %) &lt; 36%</string>
+    <string name="report_disclaimer">This report is for informational purposes only and should be interpreted by a healthcare professional.</string>
+    <string-array name="age_categories">
+        <item>Child (0-12)</item>
+        <item>Teen (13-19)</item>
+        <item>Adult (20-64)</item>
+        <item>Senior (65+)</item>
+    </string-array>
+</resources>

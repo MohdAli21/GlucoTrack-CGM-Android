@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_accent">#8B5CF6</color>
+    <color name="background_main">#F3F4F6</color>
+    <color name="background_profile">#F5F3FF</color>
+    <color name="text_dark">#1F2937</color>
+    <color name="text_light">#6B7280</color>
+    <color name="status_green">#10B981</color>
+    <color name="status_red">#EF4444</color>
+    <color name="status_yellow">#FBBF24</color>
+    <color name="status_very_high">#F59E0B</color>
+    <color name="status_very_low">#DC2626</color>
+</resources>

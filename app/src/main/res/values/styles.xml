@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This is our custom style for the text input fields -->
+    <style name="Widget.App.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary_accent</item>
+        <item name="hintTextColor">@color/primary_accent</item>
+        <item name="android:textColorHint">@color/text_light</item>
+    </style>
+</resources>

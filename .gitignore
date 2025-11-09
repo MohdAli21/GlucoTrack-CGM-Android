@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local & secrets
+local.properties
+*.jks
+*.keystore
+signing.properties
+google-services.json
+
+# IDE
+.idea/
+*.iml
+
+# Native/NDK
+.cxx/
+externalNativeBuild/
+obj/
+
+# Misc
+captures/
+.DS_Store
+*.log
