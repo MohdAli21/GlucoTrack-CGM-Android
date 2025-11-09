@@ -121,17 +121,3 @@ Example (Python):
 
 ---
 
-📜 **License**
-MIT — feel free to use and adapt with attribution.
-  
-  ## (Optional) Add a LICENSE file
-  Create `LICENSE` in the repo root with this:
-
- 
- MIT License
-
-Copyright (c) 2025 Mohammed
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-
-(Use full MIT text; you can copy from choosealicense.com.)
