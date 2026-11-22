@@ -112,12 +112,6 @@ Example (Python):
 ![GlucoTrack - 6](https://github.com/user-attachments/assets/5ca89f53-b90a-4a32-888d-711637d4a0f9)
 ![GlucoTrack - 7](https://github.com/user-attachments/assets/bff6548d-533a-452e-8548-eaddf43a6230)
 
----
+--
 
-🔒 **Notes**
-
-    Secrets/keys/keystores are not committed. See .gitignore.
-    Do not commit google-services.json.
-
----
-
+GrowthX Off Campus Code: UMVZUH
